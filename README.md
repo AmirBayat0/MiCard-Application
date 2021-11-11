@@ -1,5 +1,5 @@
 # My Flutter Business Card
-![MYCard](https://user-images.githubusercontent.com/91388754/141285528-e7b31ead-8a93-4d65-a3ab-3521035218d6.png)
+❮img src="images/MYCard.png" width="800" height="1090"❯
 
 ## On my way to learn flutter
 
