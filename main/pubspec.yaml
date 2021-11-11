@@ -1,0 +1,49 @@
+name: codewithflexz_micard
+description: miCard - Simple Application / Writen By Amir
+
+
+
+publish_to: 'none' 
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^1.0.0
+
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - Images/yourProfilePhoto.jpg
+    
+  fonts:
+    - family: Pacifico
+      fonts:
+        - asset: fonts/Pacifico-Regular.ttf
+
+    - family: SourceSansPro
+      fonts:
+        - asset: fonts/SourceSansPro-SemiBold.ttf
+       
+        
+        
+      
+    
+
